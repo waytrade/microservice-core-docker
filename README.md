@@ -2,7 +2,7 @@
 
 Docker image that contains all core dependencies to build and run microservices.
 
-[![Test and Publish](https://github.com/waytrade/microservice-core-docker/actions/workflows/publish.yml/badge.svg)](https://github.com/waytrade/microservice-core-docker/actions/workflows/publish.yml)
+[![Publish Docker](https://github.com/waytrade/microservice-core-docker/actions/workflows/publish.yml/badge.svg)](https://github.com/waytrade/microservice-core-docker/actions/workflows/publish.yml)
 
 ## Installation
   ```
